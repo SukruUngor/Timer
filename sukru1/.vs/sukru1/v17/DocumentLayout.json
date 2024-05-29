@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sukru\\source\\repos\\sukru1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34BD6419-34E1-496C-AFDB-834910861A5C}|sukru1\\sukru1.csproj|C:\\Users\\sukru\\source\\repos\\sukru1\\sukru1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34BD6419-34E1-496C-AFDB-834910861A5C}|sukru1\\sukru1.csproj|solutionrelative:sukru1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BD6419-34E1-496C-AFDB-834910861A5C}|sukru1\\sukru1.csproj|c:\\users\\sukru\\source\\repos\\sukru1\\sukru1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BD6419-34E1-496C-AFDB-834910861A5C}|sukru1\\sukru1.csproj|solutionrelative:sukru1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sukru\\source\\repos\\sukru1\\sukru1\\Form1.cs",
+              "RelativeDocumentMoniker": "sukru1\\Form1.cs",
+              "ToolTip": "C:\\Users\\sukru\\source\\repos\\sukru1\\sukru1\\Form1.cs",
+              "RelativeToolTip": "sukru1\\Form1.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:05:15.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\sukru\\source\\repos\\sukru1\\sukru1\\Form1.cs",
+              "RelativeDocumentMoniker": "sukru1\\Form1.cs",
+              "ToolTip": "C:\\Users\\sukru\\source\\repos\\sukru1\\sukru1\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "sukru1\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:05:00.469Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
